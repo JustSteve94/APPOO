@@ -154,7 +154,7 @@ Task 1
 
 Make a free form comparison/analysis of these concepts in your two languages. For example you can use a grid with pros and cons. Max one A4 page. Push your report to public repo and submit link to it.
 
-|Erlang|C++|Criteria of comparisson|
+|Erlang|C++|Comparison Criteria|
 |:---:|:---:|---|
 |Yes|No|The semantics of this language are much different than other languages|
 |No|Yes|This is a low level language|
